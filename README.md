@@ -5,6 +5,7 @@ Combine pdf files using node js
 # How to use
 
 - Clone repo
+- Do install [Node js](https://nodejs.org/en/download/)
 - Do run `npm i`
 - Copy and paste your pdf files in `pdf-files-to-merge` folder.
 - Edit `index.js` and change `files` array - do put path of your files which you want to combine in order.
